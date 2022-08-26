@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 63656.52
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 25805.2
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 70036.98
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 33995.5
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 93129.63
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 18985.9
+  },
+  {
+    "id": 0,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 41132.61
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 52959.11
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 89545.87
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 2962.52
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 25492.78
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 61574.43
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 34400.96
+  },
+  {
+    "id": 1,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 77828.21
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 1518.63
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 63665.12
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 71674.41
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 14423.61
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 64316.31
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 58793.95
+  },
+  {
+    "id": 2,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 80847.17
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 52057.27
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 13828.29
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 84192.12
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 97127.81
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 59738.29
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 69428.46
+  },
+  {
+    "id": 3,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 48200.97
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 73604.45
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 99308.71
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 57742.64
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 11166.28
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 95190.46
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 5190.25
+  },
+  {
+    "id": 4,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 8865.8
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 17734.92
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 65246.89
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 80996.99
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 26089.78
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 78578.9
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 21776.27
+  },
+  {
+    "id": 5,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 3342.5
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 73095.54
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 13359.21
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 52628.93
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 89147.86
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 38138.87
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 70669.69
+  },
+  {
+    "id": 6,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 97847.5
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 51812.89
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 64395.2
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 90353.69
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 71043.43
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 43763.81
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 29561.93
+  },
+  {
+    "id": 7,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 22525.15
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 74690.93
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 17028.97
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 58278.56
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 80409.6
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 28072.38
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 91215.44
+  },
+  {
+    "id": 8,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 77035.36
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 63707.27
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 63596.36
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 42423.56
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 54930.24
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 89079.43
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 39136.86
+  },
+  {
+    "id": 9,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 86476.97
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 9587.67
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 9551.74
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 23393.86
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 78052.7
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 79213.9
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 58859.17
+  },
+  {
+    "id": 10,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 44096.9
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 56686.7
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 75657.54
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 16557.99
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 83060.46
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 19081.17
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 52669.86
+  },
+  {
+    "id": 11,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 35450.83
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 33709.3
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 63497.11
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 40443.19
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 4548.71
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 15418.68
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 74694.13
+  },
+  {
+    "id": 12,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 18806.92
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 62762.55
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 59172.21
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 27331.34
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 8740.35
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 89539.67
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 91743.86
+  },
+  {
+    "id": 13,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 7546.52
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 10820.4
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 15758.22
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 4404.4
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 14795.5
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 30264.61
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 14921.89
+  },
+  {
+    "id": 14,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 84924.71
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 3179.14
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 44024.47
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 7950.49
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 58311.88
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 25847.34
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 5421.47
+  },
+  {
+    "id": 15,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 59307.43
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 76605.36
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 45687.9
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 81735.5
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 6499.89
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 60848.7
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 12785.1
+  },
+  {
+    "id": 16,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 65041
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 92800.13
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 60721.35
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 36644.9
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 36235.13
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 63689.38
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 2188.29
+  },
+  {
+    "id": 17,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 25497.77
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 69945.6
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 77354.19
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 6299.58
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 69683.1
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 24799.62
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 93006.58
+  },
+  {
+    "id": 18,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 39540.84
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 58938.89
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 18298.6
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 53939.7
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 35167.97
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 38191.2
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 37734.34
+  },
+  {
+    "id": 19,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 93516.66
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 22460.89
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 96460.4
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 2660.31
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 20105.75
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 62789.7
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 4942.94
+  },
+  {
+    "id": 20,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 28766.63
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 75931.75
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 61998.4
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 24507.87
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 5368.87
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 95523.21
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 50148.34
+  },
+  {
+    "id": 21,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 99275.67
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 44311.9
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 67553.46
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 66034.35
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 62107.57
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 55525.55
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 74140.15
+  },
+  {
+    "id": 22,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 1897.78
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 68623.5
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 1780.55
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 19153.44
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 16811.31
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 86334.75
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 7351.73
+  },
+  {
+    "id": 23,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 44054.87
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 44028.18
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 11015.32
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 2802.69
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 42527.41
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 65175.89
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 31262.16
+  },
+  {
+    "id": 24,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 5861.41
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 77201.2
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 26139.34
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20275.57
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 7370.12
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 12820.69
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 8549.59
+  },
+  {
+    "id": 25,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 62082.26
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 8185.86
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 45997.34
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 76016.66
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 15530.25
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 53925.14
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 86048.1
+  },
+  {
+    "id": 26,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 47880.4
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 15204.64
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 38078.58
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 44908.15
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 72402.27
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 42770.67
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 94881.15
+  },
+  {
+    "id": 27,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 35146.77
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 18500.17
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 78925.9
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 70965.66
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 87830.72
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 64865.99
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 27681.87
+  },
+  {
+    "id": 28,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 75094.37
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 17188.9
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 52362.62
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 40571.69
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 21838.7
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 53616.5
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 42345.2
+  },
+  {
+    "id": 29,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 71401.57
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 11172.94
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 1297.89
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 79837.16
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 28757.15
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 58962.46
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 54839.13
+  },
+  {
+    "id": 30,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 2420.4
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 22607.11
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 1551.51
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 62688.1
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 25556.89
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 18283.32
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 43801.42
+  },
+  {
+    "id": 31,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 24655.21
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 70055.61
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 69527.73
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 79403.73
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 26423.96
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 23709.32
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 99368.62
+  },
+  {
+    "id": 32,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 60533.77
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 31351.8
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 68653.73
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 5129.16
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 15389.81
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 24915.81
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 41931.8
+  },
+  {
+    "id": 33,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 4245.11
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 47282.8
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 79078.13
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20698.65
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 90031.65
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 91080.61
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 34296.48
+  },
+  {
+    "id": 34,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 40341.5
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 78401.68
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 57711.49
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 35268.6
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 54327.3
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 79629.49
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 20144.93
+  },
+  {
+    "id": 35,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 50086.53
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 28465.98
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20272.53
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 52125.37
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 53297.91
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 78909.65
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 98811.81
+  },
+  {
+    "id": 36,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 27281.7
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 11290.42
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 60551.43
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 59877.9
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 6031.51
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 26853.31
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 22819.23
+  },
+  {
+    "id": 37,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 71391.6
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 41750.72
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 50991.3
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 69584.81
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 8938.47
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 52981.28
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 80342.69
+  },
+  {
+    "id": 38,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 70397.93
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 85594.81
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 45606.62
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 35367.49
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 59658.84
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 44605.92
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 37874.52
+  },
+  {
+    "id": 39,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 46438.93
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 4269.79
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 21244.54
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 37475.43
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 30302.48
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 78663.1
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 60759.95
+  },
+  {
+    "id": 40,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 6964.15
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 60602.28
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 9658.76
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 97481.67
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 94163.31
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 78255.6
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 69745.82
+  },
+  {
+    "id": 41,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 30699.68
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 25470.5
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 25086.2
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 5997.42
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 54147.76
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 13230.3
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 93102.36
+  },
+  {
+    "id": 42,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 37080.6
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 8182.9
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 27401.98
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 83574.4
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 16664.48
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 1161.76
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 40729.16
+  },
+  {
+    "id": 43,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 81464.64
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 32935.27
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 36153.22
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 65289.87
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 80279.25
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 91004.6
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 74261.58
+  },
+  {
+    "id": 44,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 46405.65
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 99709.8
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 91986.29
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 58490.99
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 39509.2
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 44252.22
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 86367.12
+  },
+  {
+    "id": 45,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 69113.5
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 91609.13
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20999.25
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 49793
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20927.41
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 1817.86
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 23994.12
+  },
+  {
+    "id": 46,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 72795.91
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 29226.9
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 61977.84
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 11586.89
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 26227.1
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 4713.8
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 54594.24
+  },
+  {
+    "id": 47,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 6551.93
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 45417.7
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 32198.55
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 48939.14
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 67169
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 97162.23
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 63901.65
+  },
+  {
+    "id": 48,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 95822.3
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 12316.84
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 38763.39
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 37155.84
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 23289.41
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 96834.31
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 87420.76
+  },
+  {
+    "id": 49,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 96312.14
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 62885.53
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 13384.69
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 61490.1
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 48918.79
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 43628.11
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 77779.2
+  },
+  {
+    "id": 50,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 12194.52
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 81898.6
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 33306.33
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 52541.6
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 18241.78
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 85856.28
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 30836
+  },
+  {
+    "id": 51,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 40138.51
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 81683.45
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 47495.34
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 19328.24
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 19368.22
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 84540.7
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 1770.45
+  },
+  {
+    "id": 52,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 33653.75
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 64969.53
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 38400.3
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 57909.55
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 67206.9
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 70904.96
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 19089.9
+  },
+  {
+    "id": 53,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 82177.26
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 39889.7
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 4281.41
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 66880
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 51406.6
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 17858.77
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 64060.48
+  },
+  {
+    "id": 54,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 52111.65
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 1516.75
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 21897.97
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 96998.44
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 84563.49
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 46069.9
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 23761.88
+  },
+  {
+    "id": 55,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 86435.83
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 99673.81
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 82308.8
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 57359.98
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 99114.13
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 88238.38
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 10308.71
+  },
+  {
+    "id": 56,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 84771.98
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 45712.66
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 85962.36
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 4989.68
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 95028.85
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 21778.47
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 21040.68
+  },
+  {
+    "id": 57,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 67299.77
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 32808.95
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 15576.67
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 84676.44
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 27524.6
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 91579.53
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 19664.59
+  },
+  {
+    "id": 58,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 41613.9
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 75088.59
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 91821.49
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 76431.28
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 24493.7
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 61075.42
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 47910.66
+  },
+  {
+    "id": 59,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 7321.7
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 12546.56
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 5710.65
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 47967.11
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 35053.8
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 44177.47
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 33095.49
+  },
+  {
+    "id": 60,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 27056.26
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 28258.41
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 89156.13
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 11590.24
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 65975.56
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 8474.24
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 53316.41
+  },
+  {
+    "id": 61,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 39112.27
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 47966.65
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 7624.19
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 43319.16
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 12968.99
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 56884.19
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 70517.54
+  },
+  {
+    "id": 62,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 67879.19
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 3559.7
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 90111.21
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 29979.5
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 67996.78
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 40115.93
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 66081.38
+  },
+  {
+    "id": 63,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 9118.33
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 84135.76
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 50885.85
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 29095.82
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 95124.96
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 23290.1
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 59661.48
+  },
+  {
+    "id": 64,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 76499.3
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 75206.71
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 11111.13
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 75304.65
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 84280.65
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 62503.78
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 48200.53
+  },
+  {
+    "id": 65,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 56250.5
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 9492.88
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 56434.87
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 94207.91
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 68884.65
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 79314.39
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 41699.94
+  },
+  {
+    "id": 66,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 69005.35
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 76788.39
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 69665.3
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 86039.15
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 42270.38
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 5732.18
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 55791.34
+  },
+  {
+    "id": 67,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 23960.55
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 55972.65
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 53109.92
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 68033.8
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 38517.91
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 64128.58
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 36980.71
+  },
+  {
+    "id": 68,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 23061.23
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 20296.31
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 64614.82
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 51405.9
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 87427.11
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 7769.7
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 52175.38
+  },
+  {
+    "id": 69,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 96020.7
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 72418.79
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 83774.92
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 48575.57
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 33113.76
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 42975.48
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 24988.73
+  },
+  {
+    "id": 70,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 77628.27
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 48966.26
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 76931.17
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 77961.51
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 68743.49
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 75432.53
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 70185.38
+  },
+  {
+    "id": 71,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 51925.92
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 40432.59
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 93884.83
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 36423.83
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 14324.32
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 52716
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 44110.53
+  },
+  {
+    "id": 72,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 91174.92
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 77373.95
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 72049.53
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 18065.32
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 35622.69
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 18020.4
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 37660.25
+  },
+  {
+    "id": 73,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 40642.85
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 25775.67
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 13033.89
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 63704.22
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 38249.62
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 3019.3
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 72782.56
+  },
+  {
+    "id": 74,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 21200.4
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 45883.43
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 23346.52
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 42043.39
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 78986.88
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 44913.3
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 52534.84
+  },
+  {
+    "id": 75,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 17793.16
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 11144.96
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 94671.2
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 79335.34
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 65230.25
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 65910.68
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 40397.96
+  },
+  {
+    "id": 76,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 98717.88
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 11236.7
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 61577.81
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 12597.63
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 57809.38
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 55993.99
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 80012.56
+  },
+  {
+    "id": 77,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 76773.7
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 16628.4
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 79439.72
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 5273.77
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 67986.82
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 45921.8
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 5931.68
+  },
+  {
+    "id": 78,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 20332.12
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 85601.6
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 14982.5
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 5253.94
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 35379.8
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 56078.25
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 35621.94
+  },
+  {
+    "id": 79,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 15701.9
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 5792.36
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 96875.57
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 87270.33
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 45432.94
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 95222.41
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 31299.85
+  },
+  {
+    "id": 80,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 57465.29
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 25652.8
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 79510.48
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 84999.84
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 48783.2
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 30861.86
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 71043.7
+  },
+  {
+    "id": 81,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 22803.66
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 73990.7
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 69883.31
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 3929.31
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 44222.47
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 23661.13
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 88037.29
+  },
+  {
+    "id": 82,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 94845.36
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 75767.27
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 5586.53
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 1353.83
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 67684.74
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 84427.5
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 12735.64
+  },
+  {
+    "id": 83,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 17193.2
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 55465.73
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 46934.62
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 23550.3
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 38372.25
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 48136.63
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 82142.23
+  },
+  {
+    "id": 84,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 31617.67
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 36358.67
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 13697.39
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 84895.92
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 95820.88
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 30202.51
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 84830.54
+  },
+  {
+    "id": 85,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 16237.55
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 17834.81
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 94176.12
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 99062.59
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 30755.43
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 47691.26
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 42812.99
+  },
+  {
+    "id": 86,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 88177.93
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 24890.6
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 74061.98
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 9617.47
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 81061.11
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 16258.69
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 13568.57
+  },
+  {
+    "id": 87,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 97253.71
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 56726.16
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 24616.99
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 60041.84
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 8796.13
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 91153.69
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 49646.28
+  },
+  {
+    "id": 88,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 80864.79
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 32079.63
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 61491.51
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 25940.71
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 56256.76
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 36770.13
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 2543.3
+  },
+  {
+    "id": 89,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 6182.34
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 76546.15
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 7313.27
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 42225.23
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 19246.4
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 38294.56
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 32334.8
+  },
+  {
+    "id": 90,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 17955.9
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 64533.74
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 8815.17
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 81953.46
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 55377.16
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 83295.86
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 23351.88
+  },
+  {
+    "id": 91,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 5548.75
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 15776.22
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 14212.17
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 22297.78
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 73792.39
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 73703.69
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 79517.69
+  },
+  {
+    "id": 92,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 91101.65
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 77074.33
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 23655
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 18043.46
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 2739.21
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 45044.5
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 89139.2
+  },
+  {
+    "id": 93,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 5455.62
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 46687.18
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 19948.96
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 42576.78
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 33096.81
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 45681.64
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 14092.5
+  },
+  {
+    "id": 94,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 98222.67
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 11576.63
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 32150.17
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 91448
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 16586.26
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 78153.17
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 39305.89
+  },
+  {
+    "id": 95,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 58998.29
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 97266.81
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 13221.56
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 67803.8
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 57913.54
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 61220.6
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 48267.63
+  },
+  {
+    "id": 96,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 11102.56
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 92349.76
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 65555.11
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 84698.48
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 45516.58
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 55320.9
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-04",
+    "Amount_spent": 95873.7
+  },
+  {
+    "id": 97,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 59998.47
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 45764.65
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 97844.22
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 20501.73
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 89788.52
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 45629.49
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 63286.89
+  },
+  {
+    "id": 98,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 89347.55
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-01",
+    "Amount_spent": 92552.83
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-05",
+    "Amount_spent": 85837.82
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-02",
+    "Amount_spent": 75342.6
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-07",
+    "Amount_spent": 27239.9
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 17998.91
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-06",
+    "Amount_spent": 20959.25
+  },
+  {
+    "id": 99,
+    "Transaction_time": "2021-01-03",
+    "Amount_spent": 96080.81
+  }
+]
