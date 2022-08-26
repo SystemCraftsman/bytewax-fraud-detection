@@ -1,33 +1,12 @@
 import json
-
-from bytewax import Dataflow, spawn_cluster, cluster_main
+from bytewax import Dataflow, cluster_main
 from bytewax.inputs import ManualInputConfig, AdvanceTo, Emit
 from kafka import KafkaConsumer
-
-
-def load_json(file_name="mydata.json"):
-    with open(file_name, "r") as open_file:
-        for row in json.load(open_file):
-            value = (
-                str(row["id"]),
-                (
-                    row["Transaction_time"],
-                    int(row["Amount_spent"]),
-                ),
-            )
-
-            yield row["id"], value  # Change the form of value to key, value
-
-
-def current_transaction_amount_abnormally_higher(
-    current_amount, previous_amount
-):
-    return current_amount >= 1.5 * previous_amount
 
 def input_builder(worker_index, worker_count, resume_epoch):
     consumer = KafkaConsumer(
         'transactions',
-        bootstrap_servers=["192.168.1.18:9092"],
+        bootstrap_servers=["localhost:9092"],
         auto_offset_reset='earliest',
         group_id = 'trx_group_id'
     )
@@ -50,6 +29,11 @@ def output_builder(worker_index, worker_count):
         print(epoch, json.dumps(key), json.dumps(payload))
 
     return output_handler
+
+def current_transaction_amount_abnormally_higher(
+    current_amount, previous_amount
+):
+    return current_amount >= 1.5 * previous_amount
 
 class FraudTransaction:
     def __init__(self):
