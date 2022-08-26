@@ -8,7 +8,7 @@ from kafka import KafkaProducer
 def main():
     transactions_file = open ('../resources/data/transactions.json')
     transactions = json.load(transactions_file)
-    producer = KafkaProducer(bootstrap_servers=['192.168.1.18:9092'])
+    producer = KafkaProducer(bootstrap_servers=['localhost:9092'])
 
     for transaction in transactions:
         transaction = json.dumps(transaction)
